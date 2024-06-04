@@ -1,1 +1,1 @@
-Right this is my 2nd file to put through git steps.
+Right this is my 2nd file to put through git steps. Got loads more text here. 
